@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+}
+ul{
+  list-style-type: "---";
+}
+button:hover {
+  transition: 0.2s;
+  background-color: #14e8ae;
+  border: 1px solid black;
+  color: black;
+  box-shadow: 0 0 10px #39ff39;
+}
+
+button:focus{
+  transition: 0.2s;
+  background-color: #39ff39;
+  border: 1px solid black;
+  color: black;
+}
